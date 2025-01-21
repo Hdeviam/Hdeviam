@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hdeviam&label=Profile%20views&color=0e75b6&style=flat" alt="hdeviam" /> </p>
 
 - 💬 Pregúntame sobre **Soy ingeniero electromecánico con experiencia en desarrollo Full Stack, especializado en backend. Tengo sólidos conocidos en Node.js, Express, PostgreSQL, MongoDB, y manejo de APIs RESTful. También cuento con experiencia en tecnologías frontend como React y JavaScript. Trabajó en proyectos de diseño de arquitecturas escalables, gestión de bases de datos y optimización de aplicaciones web. Destaco por mi capacidad analíticahabilidades para resolver problemas y adaptabilidad para trabajar en equipo y aportar soluciones efectivas.**
+  
+- 📫 Cómo contactarme *harrison.devia.mora@gmail.com*
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
